@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/scans
+/public/storage
+/public/photopap
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.phpintel
+.idea
+/public/documents
